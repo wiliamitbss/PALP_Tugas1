@@ -7,7 +7,7 @@ Google Chrome merupakan aplikasi cross-platform yang menerapkan prinsip dasar Re
 
 Prinsip Responsive UI diterapkan dengan memastikan elemen-elemen utama, seperti tombol navigasi dan menu, lebih besar pada versi Android dibandingkan dengan Windows. Misalnya, tombol kembali, beranda, dan tab switcher dibuat lebih besar dan mudah dijangkau di perangkat sentuh, sehingga pengguna dapat berinteraksi dengan lebih nyaman.
 
-<img src="Home 1.png">
+<img src="home 1.png">
 <img src="Home 2.jpg">
 
 <p style="color:gray"><i>Perbandingan antara Google CHrome pada Android dan Google Chrome pada Windows</i></h6>
